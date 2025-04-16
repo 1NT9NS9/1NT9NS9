@@ -1,7 +1,5 @@
-# My name is Dmitry
-## I have been investing in cryptocurrency since 2017
-## I will introduce a telegram channel about cryptocurrency https://t.me/ROADPROFIT
-## I am developing an application for investing in cryptocurrency
+# I will introduce a telegram channel about cryptocurrency https://t.me/ROADPROFIT
+# I am developing an application for investing in cryptocurrency
 
 <!--
 **1NT9NS9/1NT9NS9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
