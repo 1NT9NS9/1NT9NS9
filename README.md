@@ -1,4 +1,5 @@
-# Founder of the channel about cryptocurrency https://t.me/ROADPROFIT
+Founder of the channel about cryptocurrency
+https://t.me/ROADPROFIT
 I am developing an application for investing in cryptocurrency
 
 <!--
