@@ -1,5 +1,5 @@
 ## My name is Dmitry
-#I have been investing in cryptocurrency since 2017
+#№I have been investing in cryptocurrency since 2017
 #I will introduce a telegram channel about cryptocurrency https://t.me/ROADPROFIT
 #I am developing an application for investing in cryptocurrency 👋
 
