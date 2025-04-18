@@ -28,9 +28,6 @@ I try to become better every day and share this with the people around me.
 ## 🛠 Skills
 Python | ML | SQL | Statistics | Probability Theory | Mathematics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
 <!--
 💬 Support email
 -->
