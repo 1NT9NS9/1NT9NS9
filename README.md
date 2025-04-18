@@ -1,8 +1,9 @@
 # Investment project
 ```bash
-The main idea is to predict events that will happen in the future.
-To do this, you need to choose the right metrics that will be based
-on a large amount of information and innovative AI technologies.
+The basic idea is to predict events that will happen in the future.
+We know what weights to assign to each metric.
+The prediction will be based not only on historical events, but also on a model for predicting the future.
+This is achieved by processing a large amount of information and innovative artificial intelligence technologies.
 ```
 
 
@@ -25,7 +26,7 @@ I try to become better every day and share this with the people around me.
 
 
 ## 🛠 Skills
-Python: ML | SQL
+Python | ML | SQL | Statistics | Probability Theory | Mathematics
 
 <!--
 💬 Support email
