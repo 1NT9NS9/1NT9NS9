@@ -1,6 +1,35 @@
-# Founder of the channel about cryptocurrency
-https://t.me/ROADPROFIT
+# Investment project
+```bash
+The main idea is to predict events that will happen in the future.
+To do this, you need to choose the right metrics that will be based
+on a large amount of information and innovative AI technologies.
+```
 
+
+## ✨ About Me
+
+Founder of the channel about cryptocurrency:
+[ROADPROFIT](https://t.me/ROADPROFIT)
+
+I work full time developing my channel and investment apps
+
+In the cryptocurrency market since 2017
+
+I have been making stable profits in financial markets since 2020
+
+I try to become better every day and share this with the people around me.
+## 🔗 Links
+
+[![telegram](https://img.shields.io/badge/TELEGRAM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/ROADPROFIT)
+
+
+
+## 🛠 Skills
+Python: ML | SQL
+
+<!--
+💬 Support email
+-->
 <!--
 **1NT9NS9/1NT9NS9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
