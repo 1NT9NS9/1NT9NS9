@@ -21,7 +21,8 @@ I have been making stable profits in financial markets since 2020
 I try to become better every day and share this with the people around me.
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/dmitriy-glotka](https://www.linkedin.com/in/dmitriy-glotka/))
+[![linkedin](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dmitriy-glotka)
+[![linkedin](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/ROADPROFIT)
 [![kaggle](https://img.shields.io/badge/KAGGLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.kaggle.com/int9ns9)
 [![telegram](https://img.shields.io/badge/TELEGRAM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/ROADPROFIT)
 
