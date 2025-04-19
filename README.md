@@ -28,7 +28,7 @@ I try to become better every day and share this with the people around me.
 
 
 ## 🛠 Skills
-Finance | Python | ML | SQL | AI | Statistics | Probability Theory | Mathematics |
+Python | ML | SQL | AI | Statistics | Probability Theory | Mathematics | Finance
 
 <!--
 💬 Support email
