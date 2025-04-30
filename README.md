@@ -1,6 +1,5 @@
-# Investment project
+# 💡 Project (Idea): AI Financial Event Predictor
 ```bash
-💡 Project (Idea): AI Financial Event Predictor
 Development of a predictive platform that combines historical data with models simulating likely future scenarios.
 The system uses a weighted metric approach and leverages AI to analyze both quantitative and contextual signals.
 The goal is to forecast key events in financial markets with high precision.
