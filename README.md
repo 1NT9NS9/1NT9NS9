@@ -1,9 +1,9 @@
 # Investment project
 ```bash
-The basic idea is to predict events that will happen in the future.
-We know what weights to assign to each metric.
-The prediction will be based not only on historical events, but also on a model for predicting the future.
-This is achieved by processing a large amount of information and innovative artificial intelligence technologies.
+💡 Project (Idea): AI Financial Event Predictor
+Development of a predictive platform that combines historical data with models simulating likely future scenarios.
+The system uses a weighted metric approach and leverages AI to analyze both quantitative and contextual signals.
+The goal is to forecast key events in financial markets with high precision.
 ```
 
 
