@@ -4,7 +4,7 @@ Welcome to my comprehensive collection of financial data science and artificial 
 
 ## 👨‍💻 About Me
 
-**Dmitriy** | Data Scientist in Financial
+**Dmitriy** | Data Scientist
 
 I specialize in applying advanced data science and AI technologies to solve complex financial problems to market prediction and risk analysis.
 
