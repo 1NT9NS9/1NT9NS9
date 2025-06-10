@@ -23,7 +23,7 @@ I specialize in applying advanced data science and AI technologies to solve comp
 - **Description**: Advanced ML system to determine house values based on buyer preferences and market conditions
 - **Key Features**: Predictive modeling, feature engineering, market analysis
 
-#### 🪙 [Bitcoin Price Prediction](https://github.com/1NT9NS9/bitcoin-price-prediction)
+#### 💹 [Bitcoin Price Prediction](https://github.com/1NT9NS9/bitcoin-price-prediction)
 - **Technology**: Python, XGBoost
 - **License**: MIT
 - **Description**: Cryptocurrency price forecasting using gradient boosting algorithms
