@@ -14,6 +14,7 @@ I specialize in applying advanced data science and AI technologies to solve comp
 - 📊 I create ML systems for real-time trading
 
 📍 Moscow, London & England  
+
 [![telegram](https://img.shields.io/badge/TELEGRAM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/ROADPROFIT)
 
 ## 🎯 Repository Portfolio
