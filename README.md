@@ -8,7 +8,6 @@ Welcome to my comprehensive collection of financial data science and artificial 
 
 I specialize in applying advanced data science and AI technologies to solve complex financial problems to market prediction and risk analysis.
 
-## 🚀 **Summary key achievements**
 - 📈 8+ years of hands-on experience in financial markets.
 - 🏆 Generating stable profits in financial markets since 2020
 - 🎯 Founded [ROADPROFIT](https://t.me/ROADPROFIT) cryptocurrency channel
