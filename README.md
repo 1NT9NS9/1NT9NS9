@@ -109,6 +109,7 @@ I specialize in applying advanced data science and AI technologies to solve comp
 - **Risk Management** - Portfolio optimization algorithms
 
 ### Development Tools & Environment
+- **PyCharm** - Integrated development environment
 - **Cursor** - AI-powered code editor for enhanced productivity
 - **API Integration** - Financial APIs, market data feeds, LLM APIs
 
