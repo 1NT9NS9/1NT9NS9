@@ -16,10 +16,6 @@ I specialize in applying advanced data science and AI technologies to solve comp
 📍 Moscow, London & England  
 🔗 [Telegram](https://t.me/Int9ns9)
 
-[![linkedin](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-glotka/)
-[![kaggle](https://img.shields.io/badge/KAGGLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.kaggle.com/int9ns9)
-[![telegram](https://img.shields.io/badge/TELEGRAM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/ROADPROFIT)
-
 ## 🎯 Repository Portfolio
 
 ### 🤖 Machine Learning & AI Projects
