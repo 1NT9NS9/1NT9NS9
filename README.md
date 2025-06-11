@@ -11,7 +11,7 @@ I specialize in applying advanced data science and AI technologies to solve comp
 - 📈 8+ years of hands-on experience in financial markets
 - 🏆 Generating stable profits in financial markets since 2020
 - 🎯 Founded [ROADPROFIT](https://t.me/ROADPROFIT) cryptocurrency channel
-- 📊 I create ML systems for real-time trading
+- 📊 I create ML systems for real-time trading 2+ years
 
 ## 🎯 Repository Portfolio
 
