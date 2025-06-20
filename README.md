@@ -1,6 +1,6 @@
 # 📰 Summary
 
-Welcome to my comprehensive collection of financial data science and artificial intelligence projects. This repository showcases cutting-edge applications of machine learning, deep learning, and data analysis in the financial domain!
+Welcome to my comprehensive collection of financial data science and artificial intelligence projects. This repository showcases cutting-edge applications of machine learning, deep learning, and data analysis in the financial domain.
 
 ## 👨‍💻 About Me
 
