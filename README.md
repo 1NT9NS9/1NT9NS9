@@ -61,6 +61,17 @@ I specialize in applying advanced data science and AI technologies to solve comp
 
 ### 🤖 Natural Language Processing
 
+#### 🏦 [Chatbot for Bank Lending](https://github.com/1NT9NS9/chatbot-for-bank-lending)
+- **Technology**: Python, FastAPI, Postgres, pgvector, Gemini LLM
+- **License**: MIT
+- **Description**: RAG-based chatbot for answering questions about bank lending conditions in Russian
+- **Key Features**:
+  - Retrieval-Augmented Generation (RAG) architecture
+  - Vector database with pgvector for semantic search
+  - FastAPI microservice with Docker deployment
+  - Real-time lending information processing
+  - Prometheus metrics and observability
+
 #### 📰 [Financial Sentiment Analysis](https://github.com/1NT9NS9/transformer-hugging-face-financial-headlines)
 - **Technology**: Python, Hugging Face Transformers, FinBERT
 - **License**: MIT
