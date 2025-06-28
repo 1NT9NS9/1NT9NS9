@@ -11,7 +11,7 @@ I specialize in applying advanced data science and AI technologies to solve comp
 - 📈 8+ years of hands-on experience in financial markets
 - 🏆 Generating stable profits in financial markets since 2020
 - 🎯 Founded [ROADPROFIT](https://t.me/ROADPROFIT) cryptocurrency channel
-- 📊 I create ML systems for real-time trading 2+ years
+- 📊 I create ML systems for real-time trading
 
 ## 🎯 Repository Portfolio
 
@@ -107,6 +107,9 @@ I specialize in applying advanced data science and AI technologies to solve comp
 - **GPT-4** - Advanced language model integration
 - **Gemini-2.5 Pro** - Google's multimodal AI capabilities
 - **Claude-4** - Anthropic's advanced reasoning models
+- **Gemini LLM** - Production-ready conversational AI
+- **RAG Systems** - Retrieval-Augmented Generation architecture
+- **Vector Databases** - pgvector, semantic search implementations
 - **API Integration** - Seamless AI model deployment and integration
 
 ### Specialized Libraries
@@ -122,6 +125,10 @@ I specialize in applying advanced data science and AI technologies to solve comp
 ### Development Tools & Environment
 - **PyCharm** - Integrated development environment
 - **Cursor** - AI-powered code editor for enhanced productivity
+- **FastAPI** - High-performance web framework for APIs
+- **Docker** - Containerization and microservices deployment
+- **PostgreSQL** - Advanced relational database management
+- **Prometheus** - Monitoring and observability systems
 - **API Integration** - Financial APIs, market data feeds, LLM APIs
 
 ## 🎯 Key Competencies
@@ -138,11 +145,17 @@ I specialize in applying advanced data science and AI technologies to solve comp
 - **Time Series Forecasting** - LSTM, ARIMA, and ensemble methods
 - **Natural Language Processing** - Sentiment analysis and text mining
 - **LLM Integration** - GPT-4, Gemini-2.5 Pro, Claude-4 implementation
+- **RAG Systems** - Retrieval-Augmented Generation for enhanced AI responses
+- **Vector Search** - Semantic similarity and embedding-based retrieval
+- **Conversational AI** - Chatbot development and dialogue systems
 
 ### 💹 Financial Analysis
 - **Risk Assessment** - Portfolio risk management
 - **Market Prediction** - Price and trend forecasting
 - **Investment Strategy** - Quantitative investment approaches
+- **Banking Systems** - Lending conditions analysis and automation
+- **Financial NLP** - Processing and understanding financial documents
+- **Regulatory Compliance** - Automated compliance checking systems
 
 
 ## 📈 Performance Metrics
