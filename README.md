@@ -64,7 +64,7 @@ I specialize in applying advanced data science and AI technologies to solve comp
 #### 🏦 [Chatbot for Bank Lending](https://github.com/1NT9NS9/chatbot-for-bank-lending)
 - **Technology**: Python, FastAPI, Postgres, pgvector, Gemini LLM
 - **License**: MIT
-- **Description**: RAG-based chatbot for answering questions about bank lending conditions in Russian
+- **Description**: RAG-based chatbot for answering questions about bank lending conditions
 - **Key Features**:
   - Retrieval-Augmented Generation (RAG) architecture
   - Vector database with pgvector for semantic search
