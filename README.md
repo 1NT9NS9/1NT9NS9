@@ -1,4 +1,4 @@
-# Dmitry — AI Engineer | Data Scientist
+# Dmitriy — ML-engineer | AI-engineer
 
 ## Contact
 - Telegram: [@Int9ns9](https://t.me/Int9ns9)
@@ -44,36 +44,4 @@ AI engineer with hands-on experience in developing machine learning and natural 
 
 ### Tooling & DevOps
 - **Docker**, **PyCharm**, **Cursor**
-
----
-
-## Metrics & Evaluation
-
-### Classification Metrics
-- Accuracy
-- Precision / Recall
-- F1-Score
-- ROC-AUC / PR-AUC
-- Log-Loss
-
-### NLP Metrics
-- BLEU / ROUGE / METEOR
-- SacreBLEU, chrF
-- Perplexity
-- BERTScore
-- Token-level F1 / Exact-Match (EM)
-
-### LLM & Conversational AI Metrics
-- Win-rate vs Baseline / Human Preference (A/B or Elo)
-- Alignment / Safety Scores (Toxicity, Bias indexes)
-- Response Diversity (Distinct-n)
-- Latency & Token-level Perplexity
-
-### Regression Metrics
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
-- R² (Coefficient of Determination)
-- Mean Absolute Percentage Error (MAPE)
-- Symmetric MAPE (SMAPE)
 
