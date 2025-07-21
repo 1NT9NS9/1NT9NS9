@@ -15,7 +15,7 @@ AI engineer with hands-on experience in developing machine learning and natural 
 - 2023 — Entered the field of machine learning, created production forecasting systems.
 - 2024 — Focused on NLP and AI, implemented LLM-based functions for users.
 - Developing my own innovative fintech project that combines traditional ML models with LLM-based analytics.
-- [Projects the financial market](https://github.com/1NT9NS9/1NT9NS9/blob/main/README_old.md)
+- [Projects the financial market](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(finance).md)
 
 ---
 
