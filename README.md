@@ -1,4 +1,4 @@
-# Dmitriy — ML-engineer | AI-engineer
+# ML-engineer | AI-engineer
 
 ## Contact
 - Telegram: [@Int9ns9](https://t.me/Int9ns9)
