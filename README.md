@@ -1,4 +1,4 @@
-# ML-engineer | AI-engineer
+ML Engineer | AI Engineer
 
 ## Contact
 - Telegram: [@Int9ns9](https://t.me/Int9ns9)
@@ -7,15 +7,16 @@
 ---
 
 ## Professional Summary
-AI engineer with hands-on experience in developing machine learning and natural language processing (NLP) solutions in the finance and construction industries. Has full-cycle ML experience, from data processing and model development to deployment and monitoring. Recently, a special focus has been on tuning and evaluating models based on large language models (LLM).
+Machine Learning engineer with end-to-end expertise: from data collection and preprocessing through model training to deployment and monitoring. Focused on improving models via **Supervised Fine-Tuning (SFT)**, **Reinforcement Learning with Direct Preference Optimisation (DPO)** and **LoRA fine-tuning**.
 
 ---
 
-## Key Achievements
-- 2023 — Entered the field of machine learning, created production forecasting systems.
-- 2024 — Focused on NLP and AI, implemented LLM-based functions for users.
-- Developing my own innovative fintech project that combines traditional ML models with LLM-based analytics.
-- [Projects the financial market](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(finance).md)
+## Professional Activities
+- Built a demand-forecasting system for construction materials using **CatBoost**.
+- Developed asset-price prediction pipelines for stock and crypto markets with **XGBoost** and **LSTM**
+see projects on [GitHub](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(finance).md).
+- Founded the Telegram channel [ROADPROFIT](https://t.me/ROADPROFIT).
+- Designing an investment assistant powered by the **Mistral** LLM.
 
 ---
 
@@ -44,4 +45,3 @@ AI engineer with hands-on experience in developing machine learning and natural 
 
 ### Tooling & DevOps
 - **Docker**, **PyCharm**, **Cursor**
-
