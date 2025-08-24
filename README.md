@@ -1,47 +1,74 @@
 ML Engineer | AI Engineer
 
-## Contact
+# Contact
 - Telegram: [@Int9ns9](https://t.me/Int9ns9)
 - GitHub: [1NT9NS9](https://github.com/1NT9NS9)
 
 ---
 
-## Professional Summary
-Machine Learning engineer with end-to-end expertise: from data collection and preprocessing through model training to deployment and monitoring. Focused on improving models via **Supervised Fine-Tuning (SFT)**, **Reinforcement Learning with Direct Preference Optimisation (DPO)** and **LoRA fine-tuning**.
+# Professional activity
 
----
+## Finance / AI (field of activity)
+1. ["Financial consultant based on AI"](https://finance-ai.cloud) (My product*)
+https://finance-ai.cloud
+[backend / frontend / deployment]:
+1.1 the user gets the opportunity to create an individual financial portfolio based on his preferences;
+1.2 the user gets the opportunity to see the transactions of the project portfolios;
+1.3 the user gets the opportunity to communicate with the financial assistant based on AI;
+1.4 the user gets the opportunity to copy the transactions of profitable portfolios by subscription.
 
-## Professional Activities
-- Built a demand-forecasting system for construction materials using **CatBoost**.
+## Finance / cryptocurrency (field of activity)
+1. Founder of the telegram channel [ROADPROFIT](https://t.me/ROADPROFIT) (My product*)
+2. BTC price prediction using the XGBoost model;
+2.1 parsing / analysis / visualization / data cleaning / conversion / data merging;
+2.2 model selection / preparing data for the model / data splitting / model training;
+2.3 prediction / metrics / visualization of results / saving the model and metadata / conclusions;
+2.4 results:
+- the number of profitable / unprofitable transactions 60/40% (at the time of work on the project 05.2025).
+3. Development of scripts to optimize work processes in the field of cryptocurrencies:
+3.1 airdrop - receiving project tokens as a reward. Average yield of 1000%;
+3.2 memes - finding promising projects. Average yield of 500%.
+
+## Construction (field of activity)
+1. Forecasting the demand for building materials using the CatBoost model;
+1.1 loading / analysis / visualization / data cleaning / conversion / data merging;
+1.2 model selection / preparing data for the model / data splitting / training the model;
+1.3 prediction / metrics / visualization of results / saving the model and metadata / conclusions;
+1.4 results:
+- reduction of "frozen" capital by 10%;
+- reduction of warehouse space by 20%;
+- reduction of downtime due to lack of materials by 10%;
+- reduction of urgent deliveries by 15%.
+
+## Machine learning projects
 - Developed asset-price prediction pipelines for stock and crypto markets with **XGBoost** and **LSTM**
 see projects on [GitHub](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(finance).md).
-- Founded the Telegram channel [ROADPROFIT](https://t.me/ROADPROFIT).
-- Designing an investment assistant powered by the **Mistral** LLM.
 
 ---
 
-## Technical Skills
+# Technical Skills
 
-### Programming Languages
-- **Python** (primary)
+## Programming Languages
+- Python / SQL / JS
 
-### Data Analysis & Visualisation
-- **Pandas**, **NumPy** — data processing & analysis
-- **matplotlib**, **Seaborn** — exploratory & executive visualisations
+## Data Analysis and Visualization
+- Pandas, NumPy — data processing and analysis
+- Matplotlib, Seaborn — exploratory and presentation visualization
 
-### Machine-Learning Frameworks & Algorithms
-- **Scikit-learn** — classical algorithms
-- **XGBoost**, **LightGBM**, **CatBoost** — gradient boosting
+## Machine Learning Frameworks and Algorithms
+- Scikit-learn — classic algorithms
+- XGBoost, LightGBM, CatBoost — gradient boosting
 
-### Deep Learning & NLP
-- **PyTorch** — neural-network development
-- **LSTM**, **BERT** — sequence modelling
-- **Hugging Face Transformers** — state-of-the-art NLP pipelines
+## Deep Learning and NLP
+- PyTorch — neural network development
+- LSTM — sequence modeling
+- Hugging Face Transformers — modern NLP pipelines
 
-### LLM Development
-- **GPT-4**, **Gemini-2.5 Pro**, **Claude-4**, **Mistral** — model integration & evaluation
-- **Supervised Fine-Tuning (SFT)** and **Reinforcement Learning via Direct Preference Optimisation (DPO)**
-- **LoRA Fine-tuning** for parameter-efficient adaptation
+## LLM Development
+- GPT-5, Gemini-2.5 Pro, Claude-4.1
+- Supervised Fine-Tuning (SFT) and Reinforcement Learning via Direct Preference Optimisation (DPO)
+- LoRA Fine-tuning — parameter-efficient adaptation
+- Cursor
 
-### Tooling & DevOps
-- **Docker**, **PyCharm**, **Cursor**
+## DevOps and tools
+- Git, Docker/Compose, Deployment (hosting/domain), PyCharm, Cursor
