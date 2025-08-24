@@ -8,7 +8,7 @@ ML Engineer | AI Engineer
 
 # Professional activity
 
-## Finance / AI (field of activity)
+## 1.Finance / AI (field of activity)
 1. ["Financial consultant based on AI"](https://finance-ai.cloud) (My product*)
 https://finance-ai.cloud
 [backend / frontend / deployment]:
@@ -17,7 +17,7 @@ https://finance-ai.cloud
 1.3 the user gets the opportunity to communicate with the financial assistant based on AI;
 1.4 the user gets the opportunity to copy the transactions of profitable portfolios by subscription.
 
-## Finance / cryptocurrency (field of activity)
+## 2.Finance / cryptocurrency (field of activity)
 1. Founder of the telegram channel [ROADPROFIT](https://t.me/ROADPROFIT) (My product*)
 2. BTC price prediction using the XGBoost model;
 2.1 parsing / analysis / visualization / data cleaning / conversion / data merging;
@@ -29,7 +29,7 @@ https://finance-ai.cloud
 3.1 airdrop - receiving project tokens as a reward. Average yield of 1000%;
 3.2 memes - finding promising projects. Average yield of 500%.
 
-## Construction (field of activity)
+## 3.Construction (field of activity)
 1. Forecasting the demand for building materials using the CatBoost model;
 1.1 loading / analysis / visualization / data cleaning / conversion / data merging;
 1.2 model selection / preparing data for the model / data splitting / training the model;
@@ -40,7 +40,7 @@ https://finance-ai.cloud
 - reduction of downtime due to lack of materials by 10%;
 - reduction of urgent deliveries by 15%.
 
-## Machine learning projects
+## 4.Machine learning projects
 - Developed asset-price prediction pipelines for stock and crypto markets with **XGBoost** and **LSTM**
 see projects on [GitHub](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(finance).md).
 
