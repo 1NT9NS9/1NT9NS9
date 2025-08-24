@@ -14,13 +14,13 @@
 - the user gets the opportunity to copy the transactions of profitable portfolios by subscription.
 
 ## 2)Finance / cryptocurrency (field of activity)
--2.1 Founder of the telegram channel [ROADPROFIT](https://t.me/ROADPROFIT) (My product*)
--2.2 BTC price prediction using the XGBoost model;
+- 2.1 Founder of the telegram channel [ROADPROFIT](https://t.me/ROADPROFIT) (My product*)
+- 2.2 BTC price prediction using the XGBoost model;
 - parsing / analysis / visualization / data cleaning / conversion / data merging;
 - model selection / preparing data for the model / data splitting / model training;
 - prediction / metrics / visualization of results / saving the model and metadata / conclusions;
 - results: the number of profitable / unprofitable transactions 60/40% (at the time of work on the project 05.2025).
--2.3 Development of scripts to optimize work processes in the field of cryptocurrencies:
+- 2.3 Development of scripts to optimize work processes in the field of cryptocurrencies:
 - airdrop - receiving project tokens as a reward. Average yield of 1000%;
 - memes - finding promising projects. Average yield of 500%.
 
