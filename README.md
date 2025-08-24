@@ -29,11 +29,11 @@
 - loading / analysis / visualization / data cleaning / conversion / data merging;
 - model selection / preparing data for the model / data splitting / training the model;
 - prediction / metrics / visualization of results / saving the model and metadata / conclusions;
-### results:
-- reduction of "frozen" capital by 10%;
-- reduction of warehouse space by 20%;
-- reduction of downtime due to lack of materials by 10%;
-- reduction of urgent deliveries by 15%.
+- results:
+-- reduction of "frozen" capital by 10%;
+-- reduction of warehouse space by 20%;
+-- reduction of downtime due to lack of materials by 10%;
+-- reduction of urgent deliveries by 15%.
 
 ## 4)Machine learning projects
 - Developed asset-price prediction pipelines for stock and crypto markets with **XGBoost** and **LSTM**
