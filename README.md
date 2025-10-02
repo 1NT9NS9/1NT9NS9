@@ -60,10 +60,13 @@ see projects on [GitHub](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(fin
 - Hugging Face Transformers — modern NLP pipelines
 
 ## LLM Development
-- GPT-5, Gemini-2.5 Pro, Claude-4.1
+- Claude code (CLI), Codex (CLI, IDE, Cloud)
+- OpenAI (GPT-5), AIStudio (Gemini-2.5 Pro), ClaudeAI (Sonnet4.5)
 - Supervised Fine-Tuning (SFT) and Reinforcement Learning via Direct Preference Optimisation (DPO)
 - LoRA Fine-tuning — parameter-efficient adaptation
-- Cursor
 
 ## DevOps and tools
 - Git, Docker/Compose, Deployment (hosting/domain), PyCharm, Cursor
+- Google cloud, VertexAI (SDK, API), Tg bots, Sandbox (vercel, e2b), Firecrawl, N8n, Lovable, OpenRouter etc
+- Cline memory bank (...)
+
