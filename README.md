@@ -6,7 +6,7 @@
 
 # Professional activity
 ## 1)News flow
-- [@superfast_news_bot](https://t.me/superfast_news_bot)
+[@superfast_news_bot](https://t.me/superfast_news_bot)
 - Don't have time to read all your Telegram channels?
 - Tired of reading the same news in different channels?
 - Is information noise making you anxious?
@@ -32,7 +32,7 @@ You read less and learn more. You receive only unique and important information.
 - memes - finding promising projects. Average yield of 500%.
 
 ## 4)Video
-- The [app](https://github.com/1NT9NS9/telegram_bot_video/blob/main/README.md) offers 5 distinct video generation modes and supports 10 languages:
+The [app](https://github.com/1NT9NS9/telegram_bot_video/blob/main/README.md) offers 5 distinct video generation modes and supports 10 languages:
 - Text to Video - Generate videos from text descriptions only
 - Text + Image to Video - Create videos using a text prompt and a single reference image
 - Text + First/Last Image - Generate videos with defined start and end frames
