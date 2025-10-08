@@ -33,11 +33,11 @@ You read less and learn more. You receive only unique and important information.
 
 ## 4)Video
 - The [app](https://github.com/1NT9NS9/telegram_bot_video/blob/main/README.md) offers 5 distinct video generation modes and supports 10 languages:
-Text to Video - Generate videos from text descriptions only
-Text + Image to Video - Create videos using a text prompt and a single reference image
-Text + First/Last Image - Generate videos with defined start and end frames
-Text + Reference Images - Use separate asset and style reference images (1-3 of each) for more controlled generation
-Text + Video Extension - Extend existing videos with new content based on text descriptions
+- Text to Video - Generate videos from text descriptions only
+- Text + Image to Video - Create videos using a text prompt and a single reference image
+- Text + First/Last Image - Generate videos with defined start and end frames
+- Text + Reference Images - Use separate asset and style reference images (1-3 of each) for more controlled generation
+- Text + Video Extension - Extend existing videos with new content based on text descriptions
 
 ## 5)Construction 
 - Forecasting the demand for building materials using the CatBoost model;
