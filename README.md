@@ -5,8 +5,8 @@
 ---
 
 # Professional activity
-## 1)News flow
-[@superfast_news_bot](https://t.me/superfast_news_bot)
+## 1)[@FAST_NEWS_AI](https://t.me/FAST_NEWS_AI)
+[@FAST_NEWS_Al_BOT](https://t.me/FAST_NEWS_Al_BOT)
 - Don't have time to read all your Telegram channels?
 - Tired of reading the same news in different channels?
 - Is information noise making you anxious?
