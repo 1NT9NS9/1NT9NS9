@@ -5,8 +5,8 @@
 ---
 
 # Professional activity
-## 1)[@FAST_NEWS_AI](https://t.me/FAST_NEWS_AI)
-[@FAST_NEWS_Al_BOT](https://t.me/FAST_NEWS_Al_BOT)
+## 1)[NEWS](https://t.me/FAST_NEWS_AI)
+[BOT](https://t.me/FAST_NEWS_Al_BOT)
 - Don't have time to read all your Telegram channels?
 - Tired of reading the same news in different channels?
 - Is information noise making you anxious?
@@ -14,14 +14,14 @@ I read all your channels to find and combine repeated stories. No more duplicate
 You read less and learn more. You receive only unique and important information.
 
 ## 2)Finance / AI 
-2. Financial consultant based on AI (My product*)
+2. Financial consultant based on AI 
 - the user gets the opportunity to create an individual financial portfolio based on his preferences;
 - the user gets the opportunity to see the transactions of the project portfolios;
 - the user gets the opportunity to communicate with the financial assistant based on AI;
 - the user gets the opportunity to copy the transactions of profitable portfolios by subscription.
 
 ## 3)Finance / cryptocurrency 
-- 3.1 Founder of the telegram channel [ROADPROFIT](https://t.me/ROADPROFIT) (My product*)
+- 3.1 Founder of the telegram channel [ROADPROFIT](https://t.me/ROADPROFIT) 
 - 3.2 BTC price prediction using the XGBoost model;
 - parsing / analysis / visualization / data cleaning / conversion / data merging;
 - model selection / preparing data for the model / data splitting / model training;
@@ -49,6 +49,7 @@ The [app](https://github.com/1NT9NS9/telegram_bot_video/blob/main/README.md) off
 - reduction of warehouse space by 20%;
 - reduction of downtime due to lack of materials by 10%;
 - reduction of urgent deliveries by 15%.
+* сode on request)
 
 ## 6)Machine learning projects
 - Developed asset-price prediction pipelines for stock and crypto markets with **XGBoost** and **LSTM**
