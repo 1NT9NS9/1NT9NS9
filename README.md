@@ -31,15 +31,7 @@ You read less and learn more. You receive only unique and important information.
 - airdrop - receiving project tokens as a reward. Average yield of 1000%;
 - memes - finding promising projects. Average yield of 500%.
 
-## 4)Video
-The [app](https://github.com/1NT9NS9/telegram_video_bot) offers 5 distinct video generation modes and supports 10 languages:
-- Text to Video - Generate videos from text descriptions only
-- Text + Image to Video - Create videos using a text prompt and a single reference image
-- Text + First/Last Image - Generate videos with defined start and end frames
-- Text + Reference Images - Use separate asset and style reference images (1-3 of each) for more controlled generation
-- Text + Video Extension - Extend existing videos with new content based on text descriptions
-
-## 5)Construction (NDA)
+## 4)Construction (NDA)
 - Forecasting the demand for building materials using the CatBoost model;
 - loading / analysis / visualization / data cleaning / conversion / data merging;
 - model selection / preparing data for the model / data splitting / training the model;
@@ -50,6 +42,14 @@ The [app](https://github.com/1NT9NS9/telegram_video_bot) offers 5 distinct video
 - reduction of downtime due to lack of materials by 10%;
 - reduction of urgent deliveries by 15%.
 * сode on request)
+
+## 5)Video
+The [app](https://github.com/1NT9NS9/telegram_video_bot) offers 5 distinct video generation modes and supports 10 languages:
+- Text to Video - Generate videos from text descriptions only
+- Text + Image to Video - Create videos using a text prompt and a single reference image
+- Text + First/Last Image - Generate videos with defined start and end frames
+- Text + Reference Images - Use separate asset and style reference images (1-3 of each) for more controlled generation
+- Text + Video Extension - Extend existing videos with new content based on text descriptions
 
 ## 6)Machine learning projects
 - Developed asset-price prediction pipelines for stock and crypto markets with **XGBoost** and **LSTM**
