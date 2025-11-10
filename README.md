@@ -5,8 +5,8 @@
 ---
 
 # Professional activity
-## 1)[NEWS](https://t.me/FAST_NEWS_AI)
-[BOT](https://t.me/FAST_NEWS_Al_BOT)
+## 1)[FAST_NEWS_AI](https://t.me/FAST_NEWS_AI)
+[FAST_NEWS_AI_BOT](https://t.me/FAST_NEWS_Al_BOT)
 - Don't have time to read all your Telegram channels?
 - Tired of reading the same news in different channels?
 - Is information noise making you anxious?
