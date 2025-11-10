@@ -13,7 +13,7 @@
 I read all your channels to find and combine repeated stories. No more duplicates!
 You read less and learn more. You receive only unique and important information.
 
-## 2)Finance / AI 
+## 2)Finance / AI (NDA)
 2. Financial consultant based on AI 
 - the user gets the opportunity to create an individual financial portfolio based on his preferences;
 - the user gets the opportunity to see the transactions of the project portfolios;
@@ -39,7 +39,7 @@ The [app](https://github.com/1NT9NS9/telegram_video_bot) offers 5 distinct video
 - Text + Reference Images - Use separate asset and style reference images (1-3 of each) for more controlled generation
 - Text + Video Extension - Extend existing videos with new content based on text descriptions
 
-## 5)Construction 
+## 5)Construction (NDA)
 - Forecasting the demand for building materials using the CatBoost model;
 - loading / analysis / visualization / data cleaning / conversion / data merging;
 - model selection / preparing data for the model / data splitting / training the model;
