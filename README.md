@@ -41,7 +41,7 @@ You read less and learn more. You receive only unique and important information.
 - reduction of warehouse space by 20%;
 - reduction of downtime due to lack of materials by 10%;
 - reduction of urgent deliveries by 15%.
-* сode on request)
+
 
 ## 5)Video
 The [app](https://github.com/1NT9NS9/telegram_video_bot) offers 5 distinct video generation modes and supports 10 languages:
