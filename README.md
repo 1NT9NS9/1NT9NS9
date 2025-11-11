@@ -13,7 +13,7 @@
 I read all your channels to find and combine repeated stories. No more duplicates!
 You read less and learn more. You receive only unique and important information.
 
-## 2)[Finance / AI](https://github.com/1NT9NS9/finance-ai.cloud/blob/main/README.md) (NDA)
+## 2)[Finance / AI](https://github.com/1NT9NS9/finance-ai.cloud/blob/main/README.md)
 2. Financial consultant based on AI 
 - the user gets the opportunity to create an individual financial portfolio based on his preferences;
 - the user gets the opportunity to see the transactions of the project portfolios;
@@ -31,7 +31,7 @@ You read less and learn more. You receive only unique and important information.
 - airdrop - receiving project tokens as a reward. Average yield of 1000%;
 - memes - finding promising projects. Average yield of 500%.
 
-## 4)Construction (NDA)
+## 4)Construction 
 - Forecasting the demand for building materials using the CatBoost model;
 - loading / analysis / visualization / data cleaning / conversion / data merging;
 - model selection / preparing data for the model / data splitting / training the model;
