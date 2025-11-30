@@ -1,4 +1,4 @@
-<img width="948" height="1135" alt="image" src="https://github.com/user-attachments/assets/e83d4e38-c579-4f4c-87df-0ce8010ea0ee" /># Contact (AI Engineer | ML Engineer)
+# Contact (AI Engineer | ML Engineer)
 - Telegram: [@Int9ns9](https://t.me/Int9ns9)
 - GitHub: [1NT9NS9](https://github.com/1NT9NS9)
 
