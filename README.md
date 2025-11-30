@@ -1,4 +1,4 @@
-# Contact (AI Engineer | ML Engineer)
+<img width="948" height="1135" alt="image" src="https://github.com/user-attachments/assets/e83d4e38-c579-4f4c-87df-0ce8010ea0ee" /># Contact (AI Engineer | ML Engineer)
 - Telegram: [@Int9ns9](https://t.me/Int9ns9)
 - GitHub: [1NT9NS9](https://github.com/1NT9NS9)
 
@@ -43,13 +43,15 @@ You read less and learn more. You receive only unique and important information.
 - reduction of urgent deliveries by 15%.
 
 
-## 5)[Video AI](https://github.com/1NT9NS9/telegram_video_bot)
+## 5)[Video AI](t.me/worId_ai_bot)
+[Description](https://github.com/1NT9NS9/telegram_video_bot)
 The offers 5 distinct video generation modes and supports 10 languages:
 - Text to Video - Generate videos from text descriptions only
 - Text + Image to Video - Create videos using a text prompt and a single reference image
 - Text + First/Last Image - Generate videos with defined start and end frames
 - Text + Reference Images - Use separate asset and style reference images (1-3 of each) for more controlled generation
 - Text + Video Extension - Extend existing videos with new content based on text descriptions
+* To get the video you need to deploy the application and log in to your account
 
 ## 6)Machine learning projects
 - Developed asset-price prediction pipelines for stock and crypto markets with **XGBoost** and **LSTM**
