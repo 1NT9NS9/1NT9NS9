@@ -43,7 +43,7 @@ You read less and learn more. You receive only unique and important information.
 - reduction of urgent deliveries by 15%.
 
 
-## 5)[Video AI](t.me/worId_ai_bot)
+## 5)[Video AI](https://t.me/worId_ai_bot)
 [Description](https://github.com/1NT9NS9/telegram_video_bot)
 The offers 5 distinct video generation modes and supports 10 languages:
 - Text to Video - Generate videos from text descriptions only
