@@ -13,7 +13,7 @@
 I read all your channels to find and combine repeated stories. No more duplicates!
 You read less and learn more. You receive only unique and important information.
 
-## 2)[Finance / AI](https://github.com/1NT9NS9/finance-ai.cloud/blob/main/README.md)
+## 2)[Finance / AI](https://github.com/1NT9NS9/finance-ai)
 2. Financial consultant based on AI 
 - the user gets the opportunity to create an individual financial portfolio based on his preferences;
 - the user gets the opportunity to see the transactions of the project portfolios;
