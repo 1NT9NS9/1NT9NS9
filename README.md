@@ -84,6 +84,6 @@ see projects on [GitHub](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(fin
 
 ## DevOps and tools
 - Git, Docker/Compose, Deployment (hosting/domain), WSL, Antigravity, Cursor, PyCharm
-- Google cloud, VertexAI (SDK, API), Tg bots, Sandbox (vercel, e2b), Firecrawl, N8n, Lovable, OpenRouter etc
-- Cline memory bank (...)
+- Google cloud, VertexAI (SDK, API), Tg bots, Sandbox (vercel, e2b), Firecrawl, N8n, Lovable, OpenRouter, ElevenLabs etc
+- Agentic system: Cline memory bank, Context/Prompt Engineering, Planning/Control, Tools/Environment, Multi-Agent Orchestration
 
