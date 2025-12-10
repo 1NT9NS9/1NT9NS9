@@ -30,7 +30,9 @@ You read less and learn more. You receive only unique and important information.
 - airdrop - receiving project tokens as a reward. Average yield of 1000%;
 - memes - finding promising projects. Average yield of 500%.
 
-## 4) [Video AI](https://github.com/1NT9NS9/telegram_video_bot)
+## 4) [Machine learning projects](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(finance).md)
+
+## 5) [Video AI](https://github.com/1NT9NS9/telegram_video_bot)
 The offers 5 distinct video generation modes and supports 10 languages:
 - Text to Video - Generate videos from text descriptions only
 - Text + Image to Video - Create videos using a text prompt and a single reference image
@@ -39,7 +41,7 @@ The offers 5 distinct video generation modes and supports 10 languages:
 - Text + Video Extension - Extend existing videos with new content based on text descriptions
 * To get the video you need to deploy the application and log in to your account
 
-## 5) Construction 
+## 6) Construction 
 - Forecasting the demand for building materials using the CatBoost model;
 - loading / analysis / visualization / data cleaning / conversion / data merging;
 - model selection / preparing data for the model / data splitting / training the model;
@@ -49,8 +51,6 @@ The offers 5 distinct video generation modes and supports 10 languages:
 - reduction of warehouse space by 20%;
 - reduction of downtime due to lack of materials by 10%;
 - reduction of urgent deliveries by 15%.
-
-## 6) [Machine learning projects](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(finance).md)
 
 ---
 
