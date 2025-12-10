@@ -50,9 +50,7 @@ The offers 5 distinct video generation modes and supports 10 languages:
 - reduction of downtime due to lack of materials by 10%;
 - reduction of urgent deliveries by 15%.
 
-## 6)Machine learning projects
-- Developed asset-price prediction pipelines for stock and crypto markets with **XGBoost** and **LSTM**
-see projects on [GitHub](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(finance).md).
+## 6) [Machine learning projects](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(finance).md)
 
 ---
 
