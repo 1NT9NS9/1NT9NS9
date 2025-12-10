@@ -6,6 +6,7 @@
 
 # Professional activity
 ## 1)FAST_NEWS_AI
+[Code](https://github.com/1NT9NS9/fast-news-ai)
 - Don't have time to read all your Telegram channels?
 - Tired of reading the same news in different channels?
 - Is information noise making you anxious?
