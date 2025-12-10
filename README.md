@@ -19,8 +19,8 @@ You read less and learn more. You receive only unique and important information.
 - the user gets the opportunity to communicate with the financial assistant based on AI;
 - the user gets the opportunity to copy the transactions of profitable portfolios by subscription.
 
-## 3)Finance / cryptocurrency 
-- 3.1 Founder of the telegram channel [ROADPROFIT](https://t.me/ROADPROFIT) 
+## 3) Finance / cryptocurrency [ROADPROFIT](https://t.me/ROADPROFIT) 
+- 3.1 Founder of the telegram channel
 - 3.2 BTC price prediction using the XGBoost model;
 - parsing / analysis / visualization / data cleaning / conversion / data merging;
 - model selection / preparing data for the model / data splitting / model training;
@@ -30,7 +30,16 @@ You read less and learn more. You receive only unique and important information.
 - airdrop - receiving project tokens as a reward. Average yield of 1000%;
 - memes - finding promising projects. Average yield of 500%.
 
-## 4)Construction 
+## 4) [Video AI](https://github.com/1NT9NS9/telegram_video_bot)
+The offers 5 distinct video generation modes and supports 10 languages:
+- Text to Video - Generate videos from text descriptions only
+- Text + Image to Video - Create videos using a text prompt and a single reference image
+- Text + First/Last Image - Generate videos with defined start and end frames
+- Text + Reference Images - Use separate asset and style reference images (1-3 of each) for more controlled generation
+- Text + Video Extension - Extend existing videos with new content based on text descriptions
+* To get the video you need to deploy the application and log in to your account
+
+## 5) Construction 
 - Forecasting the demand for building materials using the CatBoost model;
 - loading / analysis / visualization / data cleaning / conversion / data merging;
 - model selection / preparing data for the model / data splitting / training the model;
@@ -40,16 +49,6 @@ You read less and learn more. You receive only unique and important information.
 - reduction of warehouse space by 20%;
 - reduction of downtime due to lack of materials by 10%;
 - reduction of urgent deliveries by 15%.
-
-
-## 5)[Video AI](https://github.com/1NT9NS9/telegram_video_bot)
-The offers 5 distinct video generation modes and supports 10 languages:
-- Text to Video - Generate videos from text descriptions only
-- Text + Image to Video - Create videos using a text prompt and a single reference image
-- Text + First/Last Image - Generate videos with defined start and end frames
-- Text + Reference Images - Use separate asset and style reference images (1-3 of each) for more controlled generation
-- Text + Video Extension - Extend existing videos with new content based on text descriptions
-* To get the video you need to deploy the application and log in to your account
 
 ## 6)Machine learning projects
 - Developed asset-price prediction pipelines for stock and crypto markets with **XGBoost** and **LSTM**
