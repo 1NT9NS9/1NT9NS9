@@ -81,6 +81,6 @@ The offers 5 distinct video generation modes and supports 10 languages:
 ## DevOps and tools
 - GitHub/Action(Linter, Build, Test), Docker/Compose, Deployment (hosting/domain), WSL, Antigravity, Cursor, PyCharm
 - Google cloud, VertexAI (SDK, API), Tg bots, Sandbox (vercel, e2b), Firecrawl, N8n, Lovable, OpenRouter, ElevenLabs etc
-- Agentic system: Cline memory bank, Context/Prompt Engineering, Planning/Control, Tools/Environment, Multi-Agent Orchestration
+- Agentic system: Cline, Memory bank, Context/Prompt/Concept Engineering, Tools, Multi-Agent Orchestration
 
 
