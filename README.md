@@ -74,7 +74,7 @@ The offers 5 distinct video generation modes and supports 10 languages:
 
 ## LLM Development
 - Gemini (Antigravity, CLI) Claude code (CLI, IDE, Cloud), Codex (CLI, IDE, Cloud)
-- OpenAI (GPT-5.1), AIStudio (Gemini-3.0 Pro), ClaudeAI (Sonnet4.5)
+- OpenAI (GPT-5.2), AIStudio (Gemini-3.0 Pro), ClaudeAI (Sonnet4.5)
 - Supervised Fine-Tuning (SFT) and Reinforcement Learning via Direct Preference Optimisation (DPO)
 - LoRA Fine-tuning — parameter-efficient adaptation
 
