@@ -1,6 +1,7 @@
 # AI Engineer | Product manager
 - Telegram: [@Int9ns9](https://t.me/Int9ns9)
 - GitHub: [1NT9NS9](https://github.com/1NT9NS9)
+- Site: [fastable.ru](http://fastable.ru)
 
 ---
 
