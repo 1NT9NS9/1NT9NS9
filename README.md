@@ -1,4 +1,4 @@
-# AI Engineer | AI Product
+# AI Engineer | Product manager
 - Telegram: [@Int9ns9](https://t.me/Int9ns9)
 - GitHub: [1NT9NS9](https://github.com/1NT9NS9)
 
