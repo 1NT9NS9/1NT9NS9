@@ -20,9 +20,15 @@ You read less and learn more. You receive only unique and important information.
 - the user gets the opportunity to communicate with the financial assistant based on AI;
 - the user gets the opportunity to copy the transactions of profitable portfolios by subscription.
 
-## 3) Finance / cryptocurrency [ROADPROFIT](https://t.me/ROADPROFIT) 
-- 3.1 Founder of the telegram channel
-- 3.2 BTC price prediction using the XGBoost model;
+## 3) [AI agent for hypothesis testing](https://github.com/1NT9NS9/agentic-01)
+- **Zero to One (Thiel)**: Focuses on "Vertical Progress" (0 to 1), finding "Secrets," and building a Monopoly through proprietary tech and network effects.
+- **Blue Ocean Strategy**: Focuses on creating uncontested market space by Eliminating, Reducing, Raising, and Creating factors to make competition irrelevant.
+- **The Mom Test**: Focuses on validation rigour. Checks if the founder is collecting hard facts and commitments rather than just compliments and "fluff."
+- **Lean Canvas**: Focuses on the business model itself. Prioritizes finding the "Riskiest Assumption" and verifying the "Unfair Advantage" and "Channels."
+
+## 4) Finance / cryptocurrency [ROADPROFIT](https://t.me/ROADPROFIT) 
+- 4.1 Founder of the telegram channel
+- 4.2 BTC price prediction using the XGBoost model;
 - parsing / analysis / visualization / data cleaning / conversion / data merging;
 - model selection / preparing data for the model / data splitting / model training;
 - prediction / metrics / visualization of results / saving the model and metadata / conclusions;
@@ -31,9 +37,9 @@ You read less and learn more. You receive only unique and important information.
 - airdrop - receiving project tokens as a reward. Average yield of 1000%;
 - memes - finding promising projects. Average yield of 500%.
 
-## 4) [Machine learning projects](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(finance).md)
+## 5) [Machine learning projects](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(finance).md)
 
-## 5) [Video AI](https://github.com/1NT9NS9/telegram_video_bot)
+## 6) [Video AI](https://github.com/1NT9NS9/telegram_video_bot)
 The offers 5 distinct video generation modes and supports 10 languages:
 - Text to Video - Generate videos from text descriptions only
 - Text + Image to Video - Create videos using a text prompt and a single reference image
@@ -42,7 +48,7 @@ The offers 5 distinct video generation modes and supports 10 languages:
 - Text + Video Extension - Extend existing videos with new content based on text descriptions
 * To get the video you need to deploy the application and log in to your account
 
-## 6) Construction 
+## 7) Construction 
 - Forecasting the demand for building materials using the CatBoost model;
 - loading / analysis / visualization / data cleaning / conversion / data merging;
 - model selection / preparing data for the model / data splitting / training the model;
