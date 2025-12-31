@@ -22,7 +22,7 @@ You read less and learn more. You receive only unique and important information.
 ## 3) [AI agent for hypothesis testing](https://github.com/1NT9NS9/agentic-01)
 - **Zero to One (Thiel)**: Focuses on "Vertical Progress" (0 to 1), finding "Secrets," and building a Monopoly through proprietary tech and network effects.
 - **Blue Ocean Strategy**: Focuses on creating uncontested market space by Eliminating, Reducing, Raising, and Creating factors to make competition irrelevant.
-- **The Mom Test**: Focuses on validation rigour. Checks if the founder is collecting hard facts and commitments rather than just compliments and "fluff."
+- **The Mom Test**: Focuses on validation rigour. Checks if the founder is collecting hard facts and commitments rather than just compliments.
 - **Lean Canvas**: Focuses on the business model itself. Prioritizes finding the "Riskiest Assumption" and verifying the "Unfair Advantage" and "Channels."
 
 ## 4) Finance / cryptocurrency [ROADPROFIT](https://t.me/ROADPROFIT) 
