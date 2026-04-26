@@ -19,7 +19,7 @@ You read less and learn more. You receive only unique and important information.
 - the user gets the opportunity to communicate with the financial assistant based on AI;
 - the user gets the opportunity to copy the transactions of profitable portfolios by subscription.
 
-## 3) [AI agent for hypothesis testing](https://github.com/1NT9NS9/agentic-01)
+## 3) [AI agent for hypothesis testing](https://github.com/1NT9NS9/agentic-01) [2](https://github.com/1NT9NS9/agentic-02-open)
 - **Zero to One (Thiel)**: Focuses on "Vertical Progress" (0 to 1), finding "Secrets," and building a Monopoly through proprietary tech and network effects.
 - **Blue Ocean Strategy**: Focuses on creating uncontested market space by Eliminating, Reducing, Raising, and Creating factors to make competition irrelevant.
 - **The Mom Test**: Focuses on validation rigour. Checks if the founder is collecting hard facts and commitments rather than just compliments.
