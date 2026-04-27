@@ -6,64 +6,43 @@
 ---
 
 # Professional activity
-## 1) [FAST_NEWS_AI](https://github.com/1NT9NS9/fast-news-ai.git)
-- Don't have time to read all your Telegram channels?
-- Tired of reading the same news in different channels?
-- Is information noise making you anxious?
-I read all your channels to find and combine repeated stories. No more duplicates!
-You read less and learn more. You receive only unique and important information.
+## 1) [AI system for sales call analysis](https://github.com/1NT9NS9/ai-call-qa-sales)
+**Project:** AI system for sales call analysis.
+**Task:** Automate post-call reviews and build an applied agent/RAG/backend workflow for teams working with post-call reviews, call quality control, and sales communication analysis.
+**What I did:** Designed and implemented an audio -> speech-to-text -> embeddings -> retrieval -> LLM analysis -> structured output -> API/webhook pipeline in Async Python. Used the HF test set (Hugging Face); built a retrieval layer on pgvector for a knowledge base of 13 directions and 130+ documents, added embeddings, configured orchestration, and tool use via LangChain. Implemented API Contract, typing, Schema Validation, acceptance criteria, and test coverage for the core logic. Configured Timeout Handling, Retry Logic, Rate Limits, Webhook Processing, and a fallback chain for failures or invalid structured output. Implemented a FastAPI backend, a PostgreSQL data model, and local deployment via Docker Compose.
+Result: Built a system that generated structured results on an internal test set in an average of ~4 seconds per run and automated key stages of post-call review: transcription, context retrieval, scorecard, and next-best-action generation.
+Stack: Python, Async Python, FastAPI, LangChain, RAG, pgvector, PostgreSQL, Structured Output, Function Calling, Schema Validation, Embeddings, REST API, Webhooks, Docker, Docker Compose, Timeout Handling, Retry Logic, Fallback.
 
-## 2) [Finance / AI](https://github.com/1NT9NS9/finance-ai)
-- the user gets the opportunity to create an individual financial portfolio based on his preferences;
-- the user gets the opportunity to see the transactions of the project portfolios;
-- the user gets the opportunity to communicate with the financial assistant based on AI;
-- the user gets the opportunity to copy the transactions of profitable portfolios by subscription.
 
-## 3) [AI agent for hypothesis testing](https://github.com/1NT9NS9/agentic-01) [2](https://github.com/1NT9NS9/agentic-02-open)
-- **Zero to One (Thiel)**: Focuses on "Vertical Progress" (0 to 1), finding "Secrets," and building a Monopoly through proprietary tech and network effects.
-- **Blue Ocean Strategy**: Focuses on creating uncontested market space by Eliminating, Reducing, Raising, and Creating factors to make competition irrelevant.
-- **The Mom Test**: Focuses on validation rigour. Checks if the founder is collecting hard facts and commitments rather than just compliments.
-- **Lean Canvas**: Focuses on the business model itself. Prioritizes finding the "Riskiest Assumption" and verifying the "Unfair Advantage" and "Channels."
+## 2) AI system for comparing hypotheses [1](https://github.com/1NT9NS9/agentic-01) [2](https://github.com/1NT9NS9/agentic-02-open)
+**Project:** AI system for comparing hypotheses.
+**Task:** Build a reproducible multi-agent workflow for running multiple agent roles, performing judgement comparisons based on business criteria, and storing run artifacts.
+**What I did:** Designed an async-first workflow using Async Python and FastAPI within the logic of hypothesis input -> context normalization -> parallel agent runs -> structured outputs -> judgement flow -> final report -> API/dashboard. Implemented parallel execution of up to 10 agent roles, collection of results by the orchestrator layer, and final aggregation via LLM-as-a-Judge. Integrated OpenAI and Gemini, normalized responses via Pydantic, added typing, Schema Validation, API Contract, Timeout Handling, Rate Limits, Cost Control, Redis caching, Retry Logic, and fallback between providers. Saved run artifacts in md files, retained the Human-in-the-Loop stage for manual review of intermediate results, and added test coverage for the key logic of data transfer between workflow stages.
+Result: Built a system that, on an internal test set, allowed reproducible comparison of hypotheses across 5+ business criteria sets via judgement flow, saved artifacts from all runs, and reduced the manual assembly of the initial review to a single workflow run with an average full run time of approximately 8 seconds. The workflow automated hypothesis transmission to agents, context provisioning, collection of intermediate estimates, and final result summation.
+**Stack:** Python, Async Python, FastAPI, OpenAI API, Gemini API, Pydantic, Structured Output, Workflow Orchestration, LLM-as-a-Judge, API Contract, Schema Validation, Redis, Caching, Timeout Handling, Retry Logic, Fallback, React, Vite, pytest, Git.
 
-## 4) Finance / cryptocurrency [ROADPROFIT](https://t.me/ROADPROFIT) 
-- 4.1 Founder of the telegram channel
-- 4.2 BTC price prediction using the XGBoost model;
-- parsing / analysis / visualization / data cleaning / conversion / data merging;
-- model selection / preparing data for the model / data splitting / model training;
-- prediction / metrics / visualization of results / saving the model and metadata / conclusions;
-- results: the number of profitable / unprofitable transactions 60/40% (at the time of work on the project 05.2025).
-- 4.3 Development of scripts to optimize work processes in the field of cryptocurrencies:
-- airdrop - receiving project tokens as a reward. Average yield of 1000%;
-- memes - finding promising projects. Average yield of 500%.
+## 3) [ An AI product for processing and structuring news feeds](https://github.com/1NT9NS9/fast-news-ai.git)
+**Project:** An AI product for processing and structuring news feeds.
+**Objective:** Reduce user information overload by automating filtering, deduplication, clustering, and summarization of news.
+**What I did:** Designed a multi-step pipeline: news channels -> ingestion -> deduplication -> chunking -> embeddings -> clustering/retrieval -> LLM summarization -> digest delivery. Implemented news feed processing with deduplication and clustering based on embeddings + cosine similarity, added a retrieval contour to incorporate relevant context into the final digest. Manually calibrated result quality thresholds and performed manual quality calibration of the final output. I built an orchestration in Async Python, used typing, and added Schema Validation, API Contract, Timeout Handling, Rate Limits, Redis caching, and test coverage for key processing logic. I refined integrations, took external API limitations into account, and optimized the cost of LLM calls by controlling context volume.
+**Result:** Launched the product from scratch and reached 100 MAU; automated news processing from 100+ channels and reduced the time it took to obtain the final summary in 7 days from approximately 300 minutes of manual reading to ~30 seconds of final results.
+**Stack:** Python, Async Python, Gemini API, PostgreSQL, Redis, Python Telegram Bot, Embeddings, Cosine Similarity, Chunking, Retrieval, Schema Validation, API Design, Timeout Handling, Rate Limit Handling, Docker, Docker Compose, CI/CD, VPS, Hosting.
+
+## 4) [Finance / AI](https://github.com/1NT9NS9/finance-ai)
+**Project:** AI assistant for market data analysis.
+**Task:** Build an applied AI service that helps users work with financial and macroeconomic data through a user-friendly interface and RAG logic.
+**What I did:** Implemented the pipeline `market data APIs -> normalization -> tables/features -> retrieval/context enrichment -> LLM analysis -> structured interpretation -> web UI/API`, in which market and macroeconomic data via the API were converted to a tabular format, supplemented with relevant context, and analyzed by a model. I took over the backend and web interface in Python, refined the LLM integrations, added application checks, a custom flow from request to result, and logic for issuing signal interpretations in a user-friendly format.
+**Result:** Delivered the AI ​​service to a working release with a user-defined flow from request to signal interpretation based on market data.
+**Stack:** Python, Flask, React, JavaScript, RAG, SQLite, Pandas, Scikit-learn, Docker, Docker Compose, CI/CD, VPS, Hosting.
 
 ## 5) [Machine learning projects](https://github.com/1NT9NS9/1NT9NS9/blob/main/README(finance).md)
-
-## 6) [Video AI](https://github.com/1NT9NS9/telegram_video_bot)
-The offers 5 distinct video generation modes and supports 10 languages:
-- Text to Video - Generate videos from text descriptions only
-- Text + Image to Video - Create videos using a text prompt and a single reference image
-- Text + First/Last Image - Generate videos with defined start and end frames
-- Text + Reference Images - Use separate asset and style reference images (1-3 of each) for more controlled generation
-- Text + Video Extension - Extend existing videos with new content based on text descriptions
-* To get the video you need to deploy the application and log in to your account
-
-## 7) Construction 
-- Forecasting the demand for building materials using the CatBoost model;
-- loading / analysis / visualization / data cleaning / conversion / data merging;
-- model selection / preparing data for the model / data splitting / training the model;
-- prediction / metrics / visualization of results / saving the model and metadata / conclusions;
-- results:
-- reduction of "frozen" capital by 10%;
-- reduction of warehouse space by 20%;
-- reduction of downtime due to lack of materials by 10%;
-- reduction of urgent deliveries by 15%.
 
 ---
 
 # Technical Skills
 
 ## Programming Languages
-- Python / SQL / JS
+- Python / SQL / TS / JS
 
 ## Data Analysis and Visualization
 - Pandas, NumPy — data processing and analysis
@@ -80,7 +59,7 @@ The offers 5 distinct video generation modes and supports 10 languages:
 
 ## LLM Development
 - Gemini (Antigravity, CLI) Claude code (CLI, IDE, Cloud), Codex (CLI, IDE, Cloud)
-- OpenAI (GPT-5.2), AIStudio (Gemini-3.0 Pro), ClaudeAI (Sonnet4.5)
+- OpenAI (GPT-5.5), AIStudio (Gemini-3.1 Pro), ClaudeAI (Sonnet4.7)
 
 ## DevOps and tools
 - GitHub/Action(Linter, Build, Test), Docker/Compose, Deployment (hosting/domain), WSL, Antigravity, Cursor, PyCharm
