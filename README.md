@@ -23,7 +23,7 @@
 
 ## 3) [An AI product for processing and structuring news feeds](https://github.com/1NT9NS9/fast-news-ai.git)
 - **Project:** An AI product for processing and structuring news feeds.
-- **Objective:** Reduce user information overload by automating filtering, deduplication, clustering, and summarization of news.
+- **Task:** Reduce user information overload by automating filtering, deduplication, clustering, and summarization of news.
 - **What I did:** Designed a multi-step pipeline: `news channels -> ingestion -> deduplication -> chunking -> embeddings -> clustering/retrieval -> LLM summarization -> digest delivery`. Implemented news feed processing with deduplication and clustering based on embeddings + cosine similarity, added a retrieval contour to incorporate relevant context into the final digest. Manually calibrated result quality thresholds and performed manual quality calibration of the final output. I built an orchestration in Async Python, used typing, and added Schema Validation, API Contract, Timeout Handling, Rate Limits, Redis caching, and test coverage for key processing logic. I refined integrations, took external API limitations into account, and optimized the cost of LLM calls by controlling context volume.
 - **Result:** Launched the product from scratch and reached 100 MAU; automated news processing from 100+ channels and reduced the time it took to obtain the final summary in 7 days from approximately 300 minutes of manual reading to ~30 seconds of final results.
 - **Stack:** Python, Async Python, Gemini API, PostgreSQL, Redis, Python Telegram Bot, Embeddings, Cosine Similarity, Chunking, Retrieval, Schema Validation, API Design, Timeout Handling, Rate Limit Handling, Docker, Docker Compose, CI/CD, VPS, Hosting.
