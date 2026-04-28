@@ -62,7 +62,7 @@
 - OpenAI (GPT-5.5), AIStudio (Gemini-3.1 Pro), ClaudeAI (Sonnet4.7)
 
 ## DevOps and tools
-- GitHub/Action(Linter, Build, Test), Docker/Compose, Deployment (hosting/domain), WSL, Antigravity, Cursor, PyCharm
+- GitHub/Action(Linter, Build, Test, Typecheck), Docker/Compose, Deployment (hosting/domain), WSL, Antigravity, Cursor, PyCharm
 - Google cloud, VertexAI (SDK, API), Tg bots, Sandbox (vercel, e2b), Firecrawl, N8n, Lovable, OpenRouter, ElevenLabs etc
 - Agentic system: Cline, Memory bank, Context/Prompt/Concept Engineering, Tools, Multi-Agent Orchestration
 
