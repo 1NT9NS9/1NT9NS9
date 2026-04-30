@@ -166,11 +166,5 @@ All trading and prediction models include comprehensive performance evaluation:
 - **Prediction Accuracy** - MAE, RMSE, directional accuracy
 - **Real-time Performance** - Live trading simulation results
 
-## 🤝 Collaboration & Contact
-
-I'm always interested in collaborating on innovative financial technology projects. Feel free to reach out:
-
-- 📧 **Telegram**: [@Int9ns9](https://t.me/Int9ns9)
-- 🐙 **GitHub**: [1NT9NS9](https://github.com/1NT9NS9)
 
 
